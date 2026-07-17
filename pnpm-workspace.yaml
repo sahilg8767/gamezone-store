@@ -1,0 +1,3 @@
+minimumReleaseAgeExclude:
+  - '@replit/vite-plugin-cartographer@0.5.21'
+  - '@types/node@25.9.3'
